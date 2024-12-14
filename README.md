@@ -1,6 +1,8 @@
 # Welcome to Hope Integrated Systems 🌐
 
-Welcome to the official GitHub organization for **Hope Integrated Systems**. At Hope Integrated Systems, we specialize in **AI integrations and tools**, leveraging **machine learning** to revolutionize **cybersecurity testing and defense strategies**. Our mission is to empower individuals and organizations with cutting-edge solutions, comprehensive training materials, and insightful content that inspire innovation and resilience in the digital age. Here, we believe in one mission: **Innovation through collaboration, security through intelligence.**
+Welcome to the official GitHub organization for **Hope Integrated Systems**. At Hope Integrated Systems, we specialize in **AI integrations and tools**, leveraging **machine learning** to revolutionize **cybersecurity testing and defense strategies**. Our mission is to empower individuals and organizations with cutting-edge solutions, comprehensive training materials, and insightful content that inspire innovation and resilience in the digital age. Here, we believe in one mission:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=2000&width=800&height=100&lines=Innovation+through+collaboration%2C+security+through+intelligence.)](https://git.io/typing-svg)
 
 ---
 
